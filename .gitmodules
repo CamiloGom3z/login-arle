@@ -1,0 +1,3 @@
+[submodule "nextjs-jwt-cookieeee"]
+	path = nextjs-jwt-cookieeee
+	url = https://github.com/FaztWeb/nextjs-jwt-cookie.git
